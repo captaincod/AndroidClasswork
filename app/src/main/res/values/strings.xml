@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RandomFilm</string>
+    <string name="next">Next film</string>
+    <string name="reset">Reset</string>
+    <string-array name="films">
+        <item>Eraserhead</item>
+        <item>The Elephant Man</item>
+        <item>Dune</item>
+        <item>Blue Velvet</item>
+        <item>Wild at Heart</item>
+        <item>Fire Walk with Me</item>
+        <item>Lost Highway</item>
+        <item>The Straight Story</item>
+        <item>Mulholland Drive</item>
+        <item>Inland Empire</item>
+    </string-array>
+    "movie": {
+    "year": ,
+    "director": ,
+    "rating": ,
+    "country":
+    }
+</resources>

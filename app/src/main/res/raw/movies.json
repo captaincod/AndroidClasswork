@@ -1,0 +1,19 @@
+{
+  "movies":
+  [{
+    "name": "Trainspotting",
+    "year": 1996,
+    "rating": 7.9
+    },
+    {
+      "name": "Snatch",
+      "year": 2000,
+      "rating": 8.5
+    },
+    {
+      "name": "Oldeuboi",
+      "year": 2003,
+      "rating": 8.1
+    }
+  ]
+}
